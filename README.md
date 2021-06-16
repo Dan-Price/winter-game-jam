@@ -20,4 +20,4 @@ Use the wasd keys to move.
 Press ~ to move.
 
 Uses a background image from https://www.pexels.com/photo/snow-covered-forest-field-1571442/
-This game detect the use of keyboard keys to move the players and it is compatible with computers. 
+This game detects the use of keyboard keys to move the players and it is compatible with computers. 
